@@ -1,0 +1,4114 @@
+[
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Vanha Kirkkotie",
+    "address": "Vanha Kirkkotie 26",
+    "spaces": 4,
+    "lat": 60.160489,
+    "lon": 24.667682
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Artesaaninkatu",
+    "address": "Artesaaninkatu 10",
+    "spaces": 1,
+    "lat": 60.214695,
+    "lon": 24.751953
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Kokinniitty",
+    "address": "Kokinniitty 4",
+    "spaces": 1,
+    "lat": 60.183535,
+    "lon": 24.747338
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Maantienpelto 1",
+    "address": "Monikonkatu 1",
+    "spaces": 35,
+    "lat": 60.223582,
+    "lon": 24.801739
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Maantienpelto 1",
+    "address": "Vanha maantie 15",
+    "spaces": 39,
+    "lat": 60.223103,
+    "lon": 24.801727
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Maantienpelto 1",
+    "address": "Monikonkatu 1",
+    "spaces": 39,
+    "lat": 60.223263,
+    "lon": 24.801729
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park LP Maantienpelto 1",
+    "address": "Maantienpelto 1",
+    "spaces": 4,
+    "lat": 60.224002,
+    "lon": 24.805746
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Maantienpelto 1",
+    "address": "Monikonkatu 1",
+    "spaces": 39,
+    "lat": 60.223423,
+    "lon": 24.801733
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Bengtsbyntie",
+    "address": "Bengtsbyntie 8",
+    "spaces": 1,
+    "lat": 60.200392,
+    "lon": 24.745024
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park LP Nissinpuisto",
+    "address": "Nissinpuisto 2",
+    "spaces": 1,
+    "lat": 60.179221,
+    "lon": 24.6189
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park LP Palolammenaukio",
+    "address": "Bassenmäki 9",
+    "spaces": 1,
+    "lat": 60.19476,
+    "lon": 24.605352
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Koivu-Mankkaan viljelypalstat",
+    "address": "Lukupurontie 5",
+    "spaces": 1,
+    "lat": 60.183644,
+    "lon": 24.766426
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Friisinmäenaukio",
+    "address": "Friisinmäenaukio 3a",
+    "spaces": 8,
+    "lat": 60.20896,
+    "lon": 24.784449
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Asemanranta",
+    "address": "Vantinportti 5",
+    "spaces": 0,
+    "lat": 60.190485,
+    "lon": 24.604932
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Kukkavaasinkatu",
+    "address": "Kukkavaasinkatu 5",
+    "spaces": 1,
+    "lat": 60.215648,
+    "lon": 24.756023
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park LP Alkonmäenkuja",
+    "address": "Alkonmäenkuja 7",
+    "spaces": 1,
+    "lat": 60.17498,
+    "lon": 24.601348
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park LP Kallvikinkartano",
+    "address": "Kallvikinkartano 4",
+    "spaces": 2,
+    "lat": 60.168618,
+    "lon": 24.596897
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Kallvikinkartano",
+    "address": "Kallvikinkartano 4",
+    "spaces": 20,
+    "lat": 60.168402,
+    "lon": 24.596953
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park LP Alustalaisentie",
+    "address": "Alustalaisentie 3",
+    "spaces": 1,
+    "lat": 60.17296,
+    "lon": 24.596881
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Alustalaisentie",
+    "address": "Alustalaisentie 3",
+    "spaces": 11,
+    "lat": 60.173099,
+    "lon": 24.596847
+  },
+  {
+    "category": "carshare_parking",
+    "name": "Parking for car share vehicles LP Kastevuorenraitti",
+    "address": "Kastevuorenkuja 1",
+    "spaces": 20,
+    "lat": 60.138209,
+    "lon": 24.676232
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Perilänniitty",
+    "address": "Perilänniitty 2",
+    "spaces": 1,
+    "lat": 60.216289,
+    "lon": 24.832099
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Perilänkuja",
+    "address": "Perilänkuja 4",
+    "spaces": 1,
+    "lat": 60.216337,
+    "lon": 24.830043
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Forstmestarinpiha",
+    "address": "Kilonkartanontie 6",
+    "spaces": 10,
+    "lat": 60.219688,
+    "lon": 24.786959
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Kiannonkatu",
+    "address": "Kiannonkatu 7",
+    "spaces": 1,
+    "lat": 60.2209,
+    "lon": 24.826556
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Kiannonkatu",
+    "address": "Kiannonkatu 18",
+    "spaces": 1,
+    "lat": 60.220943,
+    "lon": 24.826515
+  },
+  {
+    "category": "carshare_parking",
+    "name": "Parking for car share vehicles Gräsanlaaksonkuja",
+    "address": "Gräsanlaaksonkuja 1",
+    "spaces": 3,
+    "lat": 60.162942,
+    "lon": 24.752058
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Kuurinkallio",
+    "address": "Kuurinkallio 6",
+    "spaces": 16,
+    "lat": 60.197956,
+    "lon": 24.703281
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Länsimetro Kaitaa",
+    "address": "Kaitaantie 14",
+    "spaces": 1,
+    "lat": 60.150023,
+    "lon": 24.691054
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park LP Ranakuja",
+    "address": "Ranakuja 2",
+    "spaces": 1,
+    "lat": 60.170342,
+    "lon": 24.592367
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Ranakuja",
+    "address": "Ranakuja 2",
+    "spaces": 9,
+    "lat": 60.170371,
+    "lon": 24.592139
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park LP Matinkylän urheilukeskus",
+    "address": "Matinkartanontie 5",
+    "spaces": 4,
+    "lat": 60.159355,
+    "lon": 24.750685
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Kiikaripuisto",
+    "address": "Suomenlahdentie 30",
+    "spaces": 19,
+    "lat": 60.154976,
+    "lon": 24.714124
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Höyrylaivantie",
+    "address": "Höyrylaivantie 5",
+    "spaces": 1,
+    "lat": 60.15667,
+    "lon": 24.634511
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Lasitörmänaukio",
+    "address": "Lasitörmä 8",
+    "spaces": 17,
+    "lat": 60.184839,
+    "lon": 24.585615
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Soukankuja 1",
+    "address": "Soukankuja 4",
+    "spaces": 9,
+    "lat": 60.138613,
+    "lon": 24.673406
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Kaskipiha",
+    "address": "Kaskipiha 4",
+    "spaces": 36,
+    "lat": 60.176824,
+    "lon": 24.654548
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Kartanonkulma",
+    "address": "Yläkartanontie 35",
+    "spaces": 8,
+    "lat": 60.14092,
+    "lon": 24.662639
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Hiiralantie",
+    "address": "Hiiralantie 21",
+    "spaces": 32,
+    "lat": 60.163878,
+    "lon": 24.792574
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Hiiralankaari",
+    "address": "Hiiralankaari 32a",
+    "spaces": 19,
+    "lat": 60.159815,
+    "lon": 24.795362
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park LP Runoratsunkatu 1",
+    "address": "Runoratsunkatu 6",
+    "spaces": 1,
+    "lat": 60.215243,
+    "lon": 24.82903
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park LP Runoratsunkatu 1",
+    "address": "Runoratsunkatu 6",
+    "spaces": 1,
+    "lat": 60.215242,
+    "lon": 24.829246
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park LP Anna Sahlsténin katu",
+    "address": "Anna Sahlsténin katu 8",
+    "spaces": 1,
+    "lat": 60.213431,
+    "lon": 24.828409
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Kauklahden asema",
+    "address": "Hansatie 3",
+    "spaces": 0,
+    "lat": 60.190149,
+    "lon": 24.601535
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Lillhemtintie",
+    "address": "Lillhemtintie 3",
+    "spaces": 56,
+    "lat": 60.189815,
+    "lon": 24.736927
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Magneettikatu 1",
+    "address": "Magneettikatu 8",
+    "spaces": 12,
+    "lat": 60.16922,
+    "lon": 24.617043
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Ullanmäenkulma",
+    "address": "Bredanportti 1",
+    "spaces": 15,
+    "lat": 60.206654,
+    "lon": 24.701643
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Tikaslaakso",
+    "address": "Tikaslaakso 2",
+    "spaces": 4,
+    "lat": 60.186207,
+    "lon": 24.720797
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Kahvelitie",
+    "address": "Kahvelitie 22",
+    "spaces": 6,
+    "lat": 60.180259,
+    "lon": 24.607572
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Veräjänpieli",
+    "address": "Veräjänpieli 3",
+    "spaces": 1,
+    "lat": 60.225151,
+    "lon": 24.807359
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Nihtisillanpiha",
+    "address": "Nihtisillanpiha 1",
+    "spaces": 12,
+    "lat": 60.208777,
+    "lon": 24.754849
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park LP Reserviläisentie",
+    "address": "Reserviläisentie 2",
+    "spaces": 2,
+    "lat": 60.230632,
+    "lon": 24.825721
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Reserviläisentie",
+    "address": "Reserviläisentie 2",
+    "spaces": 12,
+    "lat": 60.230571,
+    "lon": 24.825505
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Laudetie",
+    "address": "Laudetie 13",
+    "spaces": 13,
+    "lat": 60.194029,
+    "lon": 24.649584
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Korpraalintie",
+    "address": "Korpraalintie 15",
+    "spaces": 12,
+    "lat": 60.243769,
+    "lon": 24.826479
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park LP Pohjoisentie",
+    "address": "Pohjoisentie 1a",
+    "spaces": 1,
+    "lat": 60.302493,
+    "lon": 24.738203
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Pohjoisentie",
+    "address": "Pohjoisentie 1a",
+    "spaces": 15,
+    "lat": 60.302441,
+    "lon": 24.738365
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Penkkikuja",
+    "address": "Penkkikuja 20",
+    "spaces": 4,
+    "lat": 60.1952,
+    "lon": 24.646702
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Nokkalanniemi",
+    "address": "Nokkalanniemi 2",
+    "spaces": 4,
+    "lat": 60.148164,
+    "lon": 24.753458
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Matinlahdenranta, puisto",
+    "address": "Nokkalanniementie 7",
+    "spaces": 3,
+    "lat": 60.149766,
+    "lon": 24.751731
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Matinlahdenranta, puisto",
+    "address": "Nuottaniementie 2",
+    "spaces": 96,
+    "lat": 60.149621,
+    "lon": 24.751035
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Odilammenkaarre",
+    "address": "Odilammenkaarre 4",
+    "spaces": 0,
+    "lat": 60.301198,
+    "lon": 24.765114
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Koukkuniementie 1",
+    "address": "Koukkuniementie 4",
+    "spaces": 50,
+    "lat": 60.152508,
+    "lon": 24.760053
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Krattivuorentie",
+    "address": "Krattivuorentie 1",
+    "spaces": 22,
+    "lat": 60.143283,
+    "lon": 24.646621
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Vanha Hämeenkyläntie",
+    "address": "Korpraalintie 2",
+    "spaces": 4,
+    "lat": 60.24438,
+    "lon": 24.830901
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Vanha Hämeenkyläntie",
+    "address": "Korpraalintie 2",
+    "spaces": 6,
+    "lat": 60.244371,
+    "lon": 24.831121
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Alamäentie",
+    "address": "Alamäentie 3",
+    "spaces": 7,
+    "lat": 60.194382,
+    "lon": 24.682938
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Hansatie",
+    "address": "Vantinportti 3",
+    "spaces": 0,
+    "lat": 60.191486,
+    "lon": 24.605041
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Kilvoituksentie",
+    "address": "Kilvoituksentie 2",
+    "spaces": 3,
+    "lat": 60.127367,
+    "lon": 24.678434
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Lindankuja",
+    "address": "Lindankuja 1",
+    "spaces": 8,
+    "lat": 60.190865,
+    "lon": 24.587387
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Lusikkatie 1",
+    "address": "Lusikkatie 40",
+    "spaces": 17,
+    "lat": 60.175178,
+    "lon": 24.60819
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Kulovalkeantie",
+    "address": "Kulovalkeantie 2a",
+    "spaces": 36,
+    "lat": 60.209643,
+    "lon": 24.678176
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Tuomarilan viljelypalsta",
+    "address": "Luhtatie 30b",
+    "spaces": 1,
+    "lat": 60.197419,
+    "lon": 24.692079
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Helmipöllönkatu",
+    "address": "Helmipöllönkatu 13",
+    "spaces": 16,
+    "lat": 60.243389,
+    "lon": 24.82246
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Viherkallionkuja",
+    "address": "Viherkallionkuja 2",
+    "spaces": 32,
+    "lat": 60.229304,
+    "lon": 24.745995
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park LP Veräjäpellonkatu 1",
+    "address": "Veräjäpellonkatu 16",
+    "spaces": 2,
+    "lat": 60.225124,
+    "lon": 24.804268
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Veräjäpellonkatu 1",
+    "address": "Veräjäpellonkatu 17",
+    "spaces": 90,
+    "lat": 60.224995,
+    "lon": 24.802816
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park LP Veräjäpellonkatu 2",
+    "address": "Veräjäpellonkatu 12",
+    "spaces": 2,
+    "lat": 60.226329,
+    "lon": 24.805826
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park LP Veräjäpellonkatu 2",
+    "address": "Veräjäpellonkatu 15",
+    "spaces": 2,
+    "lat": 60.225975,
+    "lon": 24.804602
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Veräjäpellonkatu 2",
+    "address": "Veräjäpellonkatu 15",
+    "spaces": 108,
+    "lat": 60.226029,
+    "lon": 24.804698
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Leppärousku",
+    "address": "Leppärousku 11",
+    "spaces": 18,
+    "lat": 60.243299,
+    "lon": 24.764911
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Venepuuntie",
+    "address": "Venepuuntie 11",
+    "spaces": 12,
+    "lat": 60.140047,
+    "lon": 24.679548
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Veininkatu 1",
+    "address": "Veininkatu 5",
+    "spaces": 6,
+    "lat": 60.242993,
+    "lon": 24.767
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Veininkatu 2",
+    "address": "Veininkatu 22",
+    "spaces": 6,
+    "lat": 60.245233,
+    "lon": 24.768808
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Keihäsrinne",
+    "address": "Vasamatie 20",
+    "spaces": 10,
+    "lat": 60.211901,
+    "lon": 24.779472
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Arttelikuja",
+    "address": "Arttelikuja 2",
+    "spaces": 45,
+    "lat": 60.145599,
+    "lon": 24.702634
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Alatörmä",
+    "address": "Alatörmä 2",
+    "spaces": 53,
+    "lat": 60.135559,
+    "lon": 24.672569
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Karamzininpuisto",
+    "address": "Kulloonmäentie 2",
+    "spaces": 2,
+    "lat": 60.243626,
+    "lon": 24.713766
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Tynnyritie",
+    "address": "Tynnyritie 4",
+    "spaces": 1,
+    "lat": 60.159545,
+    "lon": 24.73526
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Tynnyritie",
+    "address": "Tynnyritie 6",
+    "spaces": 1,
+    "lat": 60.159702,
+    "lon": 24.735982
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Tynnyritie",
+    "address": "Tynnyritie 1",
+    "spaces": 3,
+    "lat": 60.159286,
+    "lon": 24.735472
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Soukankuja 3",
+    "address": "Soukankuja 3",
+    "spaces": 9,
+    "lat": 60.138805,
+    "lon": 24.67243
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Puronvarsi 2",
+    "address": "Puronvarsi 17",
+    "spaces": 11,
+    "lat": 60.162256,
+    "lon": 24.682601
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Perkkaanniitty",
+    "address": "Itsehallintotie 12",
+    "spaces": 1,
+    "lat": 60.211457,
+    "lon": 24.828896
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Perkkaanniitty",
+    "address": "Itsehallintotie 12",
+    "spaces": 1,
+    "lat": 60.211429,
+    "lon": 24.828773
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park LP Runoratsunkatu 2",
+    "address": "Runoratsunkatu 13",
+    "spaces": 1,
+    "lat": 60.215011,
+    "lon": 24.830374
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Koukkuniementie 2",
+    "address": "Koukkupolku 1",
+    "spaces": 28,
+    "lat": 60.155018,
+    "lon": 24.766153
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Kotkakuja",
+    "address": "Kotkakuja 2",
+    "spaces": 18,
+    "lat": 60.229495,
+    "lon": 24.760231
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Kotitontuntie",
+    "address": "Kotitontuntie 21",
+    "spaces": 15,
+    "lat": 60.177985,
+    "lon": 24.769437
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park LP Kuunkehrä",
+    "address": "Kuunkehrä 4",
+    "spaces": 1,
+    "lat": 60.1731,
+    "lon": 24.726029
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park LP Kuunkehrä",
+    "address": "Kuunkehrä 4",
+    "spaces": 1,
+    "lat": 60.173066,
+    "lon": 24.725609
+  },
+  {
+    "category": "carshare_parking",
+    "name": "Parking for car share vehicles LP Kuunkehrä",
+    "address": "Kuunkehrä 1",
+    "spaces": 23,
+    "lat": 60.173027,
+    "lon": 24.725833
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Vesirattaantie",
+    "address": "Vesirattaantie 3",
+    "spaces": 14,
+    "lat": 60.226798,
+    "lon": 24.66523
+  },
+  {
+    "category": "carshare_parking",
+    "name": "Parking for car share vehicles LP Päivänkehräntie",
+    "address": "Päivänkehräntie 7",
+    "spaces": 8,
+    "lat": 60.173074,
+    "lon": 24.736817
+  },
+  {
+    "category": "carshare_parking",
+    "name": "Parking for car share vehicles LP Päivänkehräntie",
+    "address": "Päivänkehräntie 7",
+    "spaces": 18,
+    "lat": 60.172907,
+    "lon": 24.736837
+  },
+  {
+    "category": "carshare_parking",
+    "name": "Parking for car share vehicles LP Päiväkaari",
+    "address": "Päivänkaari 13",
+    "spaces": 16,
+    "lat": 60.174446,
+    "lon": 24.733796
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Olarinniitynaukio",
+    "address": "Olarinniityntie 8",
+    "spaces": 93,
+    "lat": 60.180353,
+    "lon": 24.734589
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Lehtikaskentie",
+    "address": "Lehtikaskentie 11",
+    "spaces": 7,
+    "lat": 60.180409,
+    "lon": 24.667133
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Lakiaukio",
+    "address": "Lakiaukio 1",
+    "spaces": 20,
+    "lat": 60.215471,
+    "lon": 24.64479
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park LP Merikarhunkuja",
+    "address": "Merikarhunkuja 1",
+    "spaces": 1,
+    "lat": 60.149936,
+    "lon": 24.650635
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Laakapelto",
+    "address": "Laakapelto 4",
+    "spaces": 17,
+    "lat": 60.176689,
+    "lon": 24.683896
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Parkvillanpiha",
+    "address": "Parkvillanpolku 4",
+    "spaces": 1,
+    "lat": 60.215115,
+    "lon": 24.809466
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Kokinkyläntie",
+    "address": "Kokinkyläntie 1",
+    "spaces": 30,
+    "lat": 60.193759,
+    "lon": 24.767413
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Kurkihirrentie",
+    "address": "Kurkihirrentie 4",
+    "spaces": 10,
+    "lat": 60.168144,
+    "lon": 24.657416
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Nokkalanpuisto",
+    "address": "Nokkalanpuisto 1",
+    "spaces": 6,
+    "lat": 60.148666,
+    "lon": 24.748989
+  },
+  {
+    "category": "carshare_parking",
+    "name": "Parking for car share vehicles LP Nikkarinkuja",
+    "address": "Nikkarinkuja 5",
+    "spaces": 2,
+    "lat": 60.222557,
+    "lon": 24.815471
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Asgård",
+    "address": "Asgård 18",
+    "spaces": 2,
+    "lat": 60.193662,
+    "lon": 24.585923
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Asgård",
+    "address": "Asgård 18",
+    "spaces": 0,
+    "lat": 60.193662,
+    "lon": 24.585923
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Asgård",
+    "address": "Asgård 18",
+    "spaces": 17,
+    "lat": 60.193679,
+    "lon": 24.586156
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Valhallantie",
+    "address": "Valhallantie 18",
+    "spaces": 4,
+    "lat": 60.193404,
+    "lon": 24.592775
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Valhallantie",
+    "address": "Valhallantie 18",
+    "spaces": 1,
+    "lat": 60.193343,
+    "lon": 24.592764
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Lavaniityntie",
+    "address": "Lavaniityntie 1a",
+    "spaces": 5,
+    "lat": 60.285899,
+    "lon": 24.724508
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Pihkametsä",
+    "address": "Pihkametsä 1",
+    "spaces": 9,
+    "lat": 60.223482,
+    "lon": 24.65108
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Kynäkatu",
+    "address": "Kynäniekanpiha 2",
+    "spaces": 2,
+    "lat": 60.185586,
+    "lon": 24.74535
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Tiimalasintie",
+    "address": "Tiimalasintie 2",
+    "spaces": 3,
+    "lat": 60.168101,
+    "lon": 24.612721
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Kompassikatu",
+    "address": "Kompassikatu 9",
+    "spaces": 3,
+    "lat": 60.168624,
+    "lon": 24.612712
+  },
+  {
+    "category": "carshare_parking",
+    "name": "Parking for car share vehicles Purnukuja",
+    "address": "Purnukuja 2",
+    "spaces": 9,
+    "lat": 60.186249,
+    "lon": 24.797857
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Heikunankuja",
+    "address": "Heikunankuja 17",
+    "spaces": 4,
+    "lat": 60.234482,
+    "lon": 24.834448
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Matinniitty",
+    "address": "Matinniitty 2",
+    "spaces": 3,
+    "lat": 60.159673,
+    "lon": 24.745705
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Matinniitynkuja",
+    "address": "Matinniitynkuja 2",
+    "spaces": 3,
+    "lat": 60.159846,
+    "lon": 24.744819
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Matinniitynkuja",
+    "address": "Matinniitynkuja 1",
+    "spaces": 2,
+    "lat": 60.159935,
+    "lon": 24.745244
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Vuoritontuntie",
+    "address": "Vuoritontuntie 3",
+    "spaces": 2,
+    "lat": 60.173912,
+    "lon": 24.764509
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Vuoritontuntie",
+    "address": "Vuoritontuntie 18",
+    "spaces": 2,
+    "lat": 60.173752,
+    "lon": 24.764662
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Viherkalliontie",
+    "address": "Viherkalliontie 1a",
+    "spaces": 15,
+    "lat": 60.228329,
+    "lon": 24.741205
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Kievarinpolku",
+    "address": "Kievarinpolku 3",
+    "spaces": 10,
+    "lat": 60.227628,
+    "lon": 24.742766
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park LP Kirjoniitty",
+    "address": "Kirjoniitty 8",
+    "spaces": 1,
+    "lat": 60.199203,
+    "lon": 24.701588
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Kirjoniitty",
+    "address": "Kirjoniitty 8",
+    "spaces": 12,
+    "lat": 60.199221,
+    "lon": 24.701386
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Saarniraiviontie",
+    "address": "Saarniraiviontie 1",
+    "spaces": 15,
+    "lat": 60.199155,
+    "lon": 24.665236
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Kirkkojärventie liityntäpysäköinti 3",
+    "address": "Espoonaukio 1",
+    "spaces": 2,
+    "lat": 60.206398,
+    "lon": 24.659773
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Kirkkojärventie liityntäpysäköinti 3",
+    "address": "Espoonaukio 1",
+    "spaces": 0,
+    "lat": 60.206515,
+    "lon": 24.660051
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Emännäntie",
+    "address": "Emännänpiha 23",
+    "spaces": 11,
+    "lat": 60.249366,
+    "lon": 24.71873
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Kolkerannankuja",
+    "address": "Kolkerannankuja 1",
+    "spaces": 16,
+    "lat": 60.227764,
+    "lon": 24.712736
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Vilniementie",
+    "address": "Vilniementie 6",
+    "spaces": 72,
+    "lat": 60.233976,
+    "lon": 24.725167
+  },
+  {
+    "category": "carshare_parking",
+    "name": "Parking for car share vehicles LP Tiistinkallio",
+    "address": "Tiistinkallio 2",
+    "spaces": 2,
+    "lat": 60.154125,
+    "lon": 24.728055
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Tiistinkallio",
+    "address": "Tiistinkallio 2",
+    "spaces": 24,
+    "lat": 60.154048,
+    "lon": 24.728263
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Oxfotinkuja",
+    "address": "Oxfotinkuja 1",
+    "spaces": 20,
+    "lat": 60.167419,
+    "lon": 24.662206
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Eestiläistenportti",
+    "address": "Eestiläistentie 2",
+    "spaces": 11,
+    "lat": 60.165761,
+    "lon": 24.698345
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Maininkitie 1",
+    "address": "Maininkitie 17",
+    "spaces": 20,
+    "lat": 60.153471,
+    "lon": 24.644605
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Maapallonkatu",
+    "address": "Maapallonkatu 8",
+    "spaces": 12,
+    "lat": 60.170768,
+    "lon": 24.726097
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Maantienpelto 2",
+    "address": "Monikonkatu 2",
+    "spaces": 22,
+    "lat": 60.223109,
+    "lon": 24.800835
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Maantienpelto 2",
+    "address": "Monikonkatu 4",
+    "spaces": 14,
+    "lat": 60.223587,
+    "lon": 24.800895
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Maantienpelto 2",
+    "address": "Monikonkatu 2",
+    "spaces": 11,
+    "lat": 60.22327,
+    "lon": 24.800843
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Maantienpelto 2",
+    "address": "Monikonkatu 2",
+    "spaces": 10,
+    "lat": 60.223431,
+    "lon": 24.800853
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park LP Maantienpelto 2",
+    "address": "Monikonkatu 4",
+    "spaces": 2,
+    "lat": 60.223636,
+    "lon": 24.800994
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Lähdepurontie",
+    "address": "Lähdepurontie 2",
+    "spaces": 92,
+    "lat": 60.244006,
+    "lon": 24.745583
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Tikapuunkoukku",
+    "address": "Tikapuunkoukku 1",
+    "spaces": 5,
+    "lat": 60.188912,
+    "lon": 24.720198
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Klippinki",
+    "address": "Klippinkitie 7",
+    "spaces": 5,
+    "lat": 60.192573,
+    "lon": 24.599769
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Revontulenkuja",
+    "address": "Revontulenkuja 2",
+    "spaces": 1,
+    "lat": 60.170483,
+    "lon": 24.804695
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Ulappapolku",
+    "address": "Tähystäjänkatu 5",
+    "spaces": 1,
+    "lat": 60.150784,
+    "lon": 24.657338
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Viherlaaksontori",
+    "address": "Rajamännynahde 6",
+    "spaces": 1,
+    "lat": 60.226811,
+    "lon": 24.742456
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Viherlaaksontori",
+    "address": "Rajamännynahde 6",
+    "spaces": 1,
+    "lat": 60.226864,
+    "lon": 24.742285
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Tammihaantie 1",
+    "address": "Tammihaantie 4",
+    "spaces": 24,
+    "lat": 60.232512,
+    "lon": 24.72252
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Kalasääksentie",
+    "address": "Kalasääksenkuja 3",
+    "spaces": 26,
+    "lat": 60.231174,
+    "lon": 24.771436
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Puolarmaari 2",
+    "address": "Puolarmaari 10",
+    "spaces": 54,
+    "lat": 60.175956,
+    "lon": 24.696088
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Poutahaukankuja",
+    "address": "Poutahaukankuja 3",
+    "spaces": 40,
+    "lat": 60.230076,
+    "lon": 24.772751
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Vilkkupoiju",
+    "address": "Vilkkupoiju 3",
+    "spaces": 38,
+    "lat": 60.155659,
+    "lon": 24.628981
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Vanha Pisantie",
+    "address": "Vanha Pisantie 14",
+    "spaces": 27,
+    "lat": 60.174836,
+    "lon": 24.681105
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Jauhotullintie",
+    "address": "Jauhotullintie 2",
+    "spaces": 20,
+    "lat": 60.230533,
+    "lon": 24.696671
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Mäenrinne",
+    "address": "Mäenrinne 10",
+    "spaces": 13,
+    "lat": 60.166665,
+    "lon": 24.798367
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Myntinsyrjä",
+    "address": "Myntinsyrjä 7",
+    "spaces": 36,
+    "lat": 60.198165,
+    "lon": 24.59353
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Mustanotko",
+    "address": "Mustanotko 4",
+    "spaces": 12,
+    "lat": 60.204041,
+    "lon": 24.627966
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Munkkiluodonkuja",
+    "address": "Munkkiluodonkuja 2",
+    "spaces": 18,
+    "lat": 60.160543,
+    "lon": 24.793121
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Merisaapas",
+    "address": "Merisaapas 4",
+    "spaces": 26,
+    "lat": 60.147936,
+    "lon": 24.643567
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Kipparinkatu",
+    "address": "Kipparinkatu 8",
+    "spaces": 12,
+    "lat": 60.14891,
+    "lon": 24.652661
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Mellstenintie 2",
+    "address": "Mellstenintie 7",
+    "spaces": 10,
+    "lat": 60.157067,
+    "lon": 24.780762
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Mellstenintie 1",
+    "address": "Mellstenintie 6",
+    "spaces": 34,
+    "lat": 60.154441,
+    "lon": 24.774437
+  },
+  {
+    "category": "carshare_parking",
+    "name": "Parking for car share vehicles LP Matinlahdenkuja",
+    "address": "Matinlahdenkuja 5",
+    "spaces": 2,
+    "lat": 60.153971,
+    "lon": 24.74987
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Matinlahdenkuja",
+    "address": "Matinlahdenkuja 5",
+    "spaces": 22,
+    "lat": 60.154058,
+    "lon": 24.750026
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Martinniitty",
+    "address": "Martinniitty 8",
+    "spaces": 28,
+    "lat": 60.161698,
+    "lon": 24.695732
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Martinkallio",
+    "address": "Martinkallio 3",
+    "spaces": 28,
+    "lat": 60.156612,
+    "lon": 24.677727
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Menninkäisenpolku",
+    "address": "Menninkäisentie 4g",
+    "spaces": 1,
+    "lat": 60.179549,
+    "lon": 24.808103
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Takojantie",
+    "address": "Takojantie 3",
+    "spaces": 16,
+    "lat": 60.187082,
+    "lon": 24.799321
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Läkkitori",
+    "address": "Tinurinkuja 4",
+    "spaces": 1,
+    "lat": 60.221206,
+    "lon": 24.813495
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park LP Uuno Kailaan katu",
+    "address": "Uuno Kailaan katu 3",
+    "spaces": 1,
+    "lat": 60.213175,
+    "lon": 24.834304
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Kaarlo Sarkian katu",
+    "address": "Kaarlo Sarkian katu 10",
+    "spaces": 1,
+    "lat": 60.214715,
+    "lon": 24.832945
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Kaarlo Sarkian katu",
+    "address": "Kaarlo Sarkian katu 1",
+    "spaces": 1,
+    "lat": 60.214948,
+    "lon": 24.834235
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Espoon vanha asemarakennus ja aseman makasiini",
+    "address": "Kirkkojärventie 1",
+    "spaces": 1,
+    "lat": 60.205663,
+    "lon": 24.658468
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Kirkkojärventie liityntäpysäköinti 1",
+    "address": "Kirkkojärventie 3",
+    "spaces": 2,
+    "lat": 60.205899,
+    "lon": 24.659641
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Kirkkojärventie liityntäpysäköinti 1",
+    "address": "Kirkkojärventie 3",
+    "spaces": 0,
+    "lat": 60.206019,
+    "lon": 24.660078
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park LP Merivalkama",
+    "address": "Merivalkama 13",
+    "spaces": 2,
+    "lat": 60.152301,
+    "lon": 24.629396
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Merivalkama",
+    "address": "Merivalkama 11",
+    "spaces": 19,
+    "lat": 60.152394,
+    "lon": 24.629391
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Kirvuntie",
+    "address": "Kirvuntie 22a",
+    "spaces": 12,
+    "lat": 60.203561,
+    "lon": 24.8048
+  },
+  {
+    "category": "carshare_parking",
+    "name": "Parking for car share vehicles LP Kirstintie",
+    "address": "Kirstintie 9a",
+    "spaces": 8,
+    "lat": 60.201403,
+    "lon": 24.667862
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Kirstintie",
+    "address": "Kirstintie 9a",
+    "spaces": 8,
+    "lat": 60.201337,
+    "lon": 24.667859
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park LP Fonseenintie",
+    "address": "Fonseenintie 2",
+    "spaces": 1,
+    "lat": 60.221982,
+    "lon": 24.845463
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Fonseenintie",
+    "address": "Fonseenintie 2",
+    "spaces": 12,
+    "lat": 60.221994,
+    "lon": 24.845658
+  },
+  {
+    "category": "carshare_parking",
+    "name": "Parking for car share vehicles LP Everstinkuja",
+    "address": "Everstinkuja 2",
+    "spaces": 2,
+    "lat": 60.21305,
+    "lon": 24.822254
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Everstinkuja",
+    "address": "Everstinkuja 2",
+    "spaces": 16,
+    "lat": 60.213082,
+    "lon": 24.821935
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Turkispiha",
+    "address": "Turkispiha 4",
+    "spaces": 5,
+    "lat": 60.195186,
+    "lon": 24.600173
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park LP Urheilukentäntie",
+    "address": "Urheilukentäntie 1",
+    "spaces": 2,
+    "lat": 60.300922,
+    "lon": 24.754767
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Urheilukentäntie",
+    "address": "Urheilukentäntie 1",
+    "spaces": 23,
+    "lat": 60.300882,
+    "lon": 24.754493
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Espoonlahdenranta",
+    "address": "Espoonlahdenranta 17",
+    "spaces": 28,
+    "lat": 60.146914,
+    "lon": 24.639101
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Tuulikuja",
+    "address": "Tuulikuja 10",
+    "spaces": 16,
+    "lat": 60.171174,
+    "lon": 24.797348
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park LP Tuulikuja",
+    "address": "Tuuliniitty 11",
+    "spaces": 2,
+    "lat": 60.171378,
+    "lon": 24.799375
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Tuulikuja",
+    "address": "Tuulikuja 5",
+    "spaces": 15,
+    "lat": 60.171247,
+    "lon": 24.797649
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Tuomarilantie",
+    "address": "Tuomarilantie 11",
+    "spaces": 0,
+    "lat": 60.205781,
+    "lon": 24.683226
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Rantarata",
+    "address": "Kannusillanmäki 1",
+    "spaces": 0,
+    "lat": 60.204633,
+    "lon": 24.652784
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Satukuja",
+    "address": "Satukuja 2",
+    "spaces": 14,
+    "lat": 60.156978,
+    "lon": 24.73822
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park LP Satukuja",
+    "address": "Satukuja 2",
+    "spaces": 2,
+    "lat": 60.156793,
+    "lon": 24.738206
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Haukilahdenkenttä",
+    "address": "Kiiskitie 10",
+    "spaces": 9,
+    "lat": 60.164535,
+    "lon": 24.778354
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Ruukinkuja",
+    "address": "Ruukinmestarintie 1",
+    "spaces": 24,
+    "lat": 60.160159,
+    "lon": 24.635131
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Villa Rulludd",
+    "address": "Rullaniementie 8",
+    "spaces": 10,
+    "lat": 60.142869,
+    "lon": 24.707652
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Ristiaallokonkatu",
+    "address": "Ristiaallokonkatu 4",
+    "spaces": 34,
+    "lat": 60.154849,
+    "lon": 24.642103
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Riihiniityntie",
+    "address": "Riihiniityntie 1",
+    "spaces": 12,
+    "lat": 60.252569,
+    "lon": 24.774427
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Kotkatie",
+    "address": "Kotkatie 2",
+    "spaces": 41,
+    "lat": 60.22843,
+    "lon": 24.761498
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Ullantorpantie",
+    "address": "Ullanmäentie 9",
+    "spaces": 10,
+    "lat": 60.205799,
+    "lon": 24.704751
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Turveradantie",
+    "address": "Turveradantie 25",
+    "spaces": 29,
+    "lat": 60.196974,
+    "lon": 24.787284
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Tammitie",
+    "address": "Tammitie 1a",
+    "spaces": 13,
+    "lat": 60.158356,
+    "lon": 24.688012
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Nuuksiontie",
+    "address": "Nuuksiontie 80",
+    "spaces": 68,
+    "lat": 60.292938,
+    "lon": 24.560004
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Siuntionkuja",
+    "address": "Siuntionkuja 4",
+    "spaces": 23,
+    "lat": 60.211156,
+    "lon": 24.785168
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Sepontie 1",
+    "address": "Sepontie 2",
+    "spaces": 6,
+    "lat": 60.187752,
+    "lon": 24.789849
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Patokuja",
+    "address": "Patokuja 2",
+    "spaces": 9,
+    "lat": 60.226102,
+    "lon": 24.657473
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Karikko",
+    "address": "Myötätuulenmäki 6",
+    "spaces": 22,
+    "lat": 60.162431,
+    "lon": 24.616221
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Kylävainionkuja",
+    "address": "Kylävainionkuja 1",
+    "spaces": 48,
+    "lat": 60.208942,
+    "lon": 24.673386
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Kuusiniemi",
+    "address": "Kuusiniemi 6",
+    "spaces": 18,
+    "lat": 60.225247,
+    "lon": 24.729687
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Kuurinniityntie",
+    "address": "Kuurinniityntie 31",
+    "spaces": 6,
+    "lat": 60.199273,
+    "lon": 24.704747
+  },
+  {
+    "category": "carshare_parking",
+    "name": "Parking for car share vehicles LP Kiltakallio",
+    "address": "Kiltakallio 4",
+    "spaces": 1,
+    "lat": 60.199962,
+    "lon": 24.656346
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Kiltakallio",
+    "address": "Kiltakallio 4",
+    "spaces": 13,
+    "lat": 60.199892,
+    "lon": 24.656376
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Juvan teollisuuskatu",
+    "address": "Juvan teollisuuskatu 16",
+    "spaces": 56,
+    "lat": 60.275363,
+    "lon": 24.760328
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Hopearinne",
+    "address": "Hopearinne 19",
+    "spaces": 15,
+    "lat": 60.194627,
+    "lon": 24.706809
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Hauenkoukku",
+    "address": "Haukilahdenranta 5",
+    "spaces": 28,
+    "lat": 60.15858,
+    "lon": 24.771481
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Hakakuja",
+    "address": "Hakakuja 2a",
+    "spaces": 22,
+    "lat": 60.172762,
+    "lon": 24.793229
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Arvelantie",
+    "address": "Arvelantie 1",
+    "spaces": 12,
+    "lat": 60.213315,
+    "lon": 24.638551
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park LP Anjankuja",
+    "address": "Anjankuja 3",
+    "spaces": 1,
+    "lat": 60.157661,
+    "lon": 24.741284
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Alakartanonkuja",
+    "address": "Alakartanonkuja 2",
+    "spaces": 12,
+    "lat": 60.135301,
+    "lon": 24.6692
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Aarnivalkeantie",
+    "address": "Aarnivalkeantie 14",
+    "spaces": 7,
+    "lat": 60.182757,
+    "lon": 24.807826
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Vaahtopää",
+    "address": "Kivenlahdenkatu 18",
+    "spaces": 39,
+    "lat": 60.150915,
+    "lon": 24.640644
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Aallonhuippu",
+    "address": "Aallonhuippu 4",
+    "spaces": 9,
+    "lat": 60.150816,
+    "lon": 24.638178
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park LP Yläkartanontie",
+    "address": "Yläkartanontie 26",
+    "spaces": 1,
+    "lat": 60.142147,
+    "lon": 24.669817
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Yläkartanontie",
+    "address": "Yläkartanontie 27",
+    "spaces": 20,
+    "lat": 60.142266,
+    "lon": 24.66983
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Kurtinmalmi",
+    "address": "Kurtinmalmi 3",
+    "spaces": 10,
+    "lat": 60.182111,
+    "lon": 24.600113
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Suokulma",
+    "address": "Suokulma 3",
+    "spaces": 23,
+    "lat": 60.1671,
+    "lon": 24.64445
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Kartanonkuja",
+    "address": "Kartanonkuja 5",
+    "spaces": 12,
+    "lat": 60.135654,
+    "lon": 24.667453
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Yläkartanonkuja",
+    "address": "Yläkartanonkuja 1",
+    "spaces": 1,
+    "lat": 60.142181,
+    "lon": 24.666575
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Ylisrinne",
+    "address": "Ylisrinne 5",
+    "spaces": 11,
+    "lat": 60.174382,
+    "lon": 24.741707
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Yhdyskunnankuja",
+    "address": "Yhdyskunnankuja 2",
+    "spaces": 1,
+    "lat": 60.212288,
+    "lon": 24.819966
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Yhdyskunnankuja",
+    "address": "Yhdyskunnankuja 2",
+    "spaces": 9,
+    "lat": 60.212215,
+    "lon": 24.819784
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Vuokselantie",
+    "address": "Vuokselantie 16",
+    "spaces": 5,
+    "lat": 60.200152,
+    "lon": 24.806056
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Virastopiha",
+    "address": "Kirkkojärventie 4",
+    "spaces": 2,
+    "lat": 60.205565,
+    "lon": 24.654505
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Viherpeiponkuja",
+    "address": "Pikkulinnunreitti 3",
+    "spaces": 5,
+    "lat": 60.230111,
+    "lon": 24.822515
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Viherkalliontie",
+    "address": "Viherkalliontie 5",
+    "spaces": 1,
+    "lat": 60.228915,
+    "lon": 24.745596
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Viherkalliontie",
+    "address": "Viherkalliontie 5",
+    "spaces": 1,
+    "lat": 60.228915,
+    "lon": 24.745478
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Viherkalliontie",
+    "address": "Viherkalliontie 12",
+    "spaces": 9,
+    "lat": 60.228676,
+    "lon": 24.750444
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Viherkalliontie",
+    "address": "Viherkalliontie 10",
+    "spaces": 2,
+    "lat": 60.228897,
+    "lon": 24.748116
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Viherkalliontie",
+    "address": "Viherkalliontie 7",
+    "spaces": 1,
+    "lat": 60.228887,
+    "lon": 24.748477
+  },
+  {
+    "category": "carshare_parking",
+    "name": "Parking for car share vehicles Veräjäpellonkatu",
+    "address": "Veräjäpellonkatu 2",
+    "spaces": 1,
+    "lat": 60.225401,
+    "lon": 24.810212
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Veräjäpellonkatu",
+    "address": "Veräjäpellonkatu 1",
+    "spaces": 5,
+    "lat": 60.225441,
+    "lon": 24.810151
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Valopoiju",
+    "address": "Valopoiju 2",
+    "spaces": 2,
+    "lat": 60.154654,
+    "lon": 24.62922
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Valopoiju",
+    "address": "Valopoiju 2",
+    "spaces": 12,
+    "lat": 60.154782,
+    "lon": 24.629444
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Valkjärventie",
+    "address": "Valkjärventie 1",
+    "spaces": 15,
+    "lat": 60.189326,
+    "lon": 24.806522
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Vaasanrinne",
+    "address": "Vaasanrinne 10",
+    "spaces": 8,
+    "lat": 60.19752,
+    "lon": 24.589925
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Uudenkylänmäki",
+    "address": "Uudenkylänmäki 21",
+    "spaces": 2,
+    "lat": 60.1909,
+    "lon": 24.750203
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Uudenkirkontie",
+    "address": "Uudenkirkontie 16",
+    "spaces": 2,
+    "lat": 60.192501,
+    "lon": 24.791262
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Uudenkirkontie",
+    "address": "Uudenkirkontie 16",
+    "spaces": 6,
+    "lat": 60.192473,
+    "lon": 24.791115
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Kivenlahdentori",
+    "address": "Meriusva 1",
+    "spaces": 2,
+    "lat": 60.154793,
+    "lon": 24.635282
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Ylismäentie",
+    "address": "Ylismäentie 3",
+    "spaces": 6,
+    "lat": 60.17743,
+    "lon": 24.732939
+  },
+  {
+    "category": "carshare_parking",
+    "name": "Parking for car share vehicles LP Kirstinmäki",
+    "address": "Kirstinmäki 13",
+    "spaces": 2,
+    "lat": 60.203961,
+    "lon": 24.66652
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Kirstinmäki",
+    "address": "Kirstinmäki 15",
+    "spaces": 30,
+    "lat": 60.204099,
+    "lon": 24.666653
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park LP Kirkkopolku",
+    "address": "Kirkkopolku 3",
+    "spaces": 2,
+    "lat": 60.178447,
+    "lon": 24.808003
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Suohaukankuja",
+    "address": "Suohaukankuja 2",
+    "spaces": 26,
+    "lat": 60.229078,
+    "lon": 24.769786
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Ullantorppa",
+    "address": "Ullantorppa 5",
+    "spaces": 8,
+    "lat": 60.203839,
+    "lon": 24.705141
+  },
+  {
+    "category": "carshare_parking",
+    "name": "Parking for car share vehicles Ukonvaaja",
+    "address": "Ukonvaaja 2",
+    "spaces": 5,
+    "lat": 60.184839,
+    "lon": 24.794791
+  },
+  {
+    "category": "carshare_parking",
+    "name": "Parking for car share vehicles Ukonvaaja",
+    "address": "Ukonvaaja 1a",
+    "spaces": 2,
+    "lat": 60.184957,
+    "lon": 24.793955
+  },
+  {
+    "category": "carshare_parking",
+    "name": "Parking for car share vehicles Ukonvaaja",
+    "address": "Ukonvaaja 1",
+    "spaces": 3,
+    "lat": 60.185165,
+    "lon": 24.792595
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Ukkohauentie",
+    "address": "Ukkohauentie 1",
+    "spaces": 11,
+    "lat": 60.164051,
+    "lon": 24.775455
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Turveradantie",
+    "address": "Turveradantie 29",
+    "spaces": 8,
+    "lat": 60.191901,
+    "lon": 24.78705
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Saunalahdenkatu",
+    "address": "Saunalahdenkatu 5",
+    "spaces": 2,
+    "lat": 60.167724,
+    "lon": 24.61776
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Sateenkaari",
+    "address": "Sateenkaari 4",
+    "spaces": 17,
+    "lat": 60.172324,
+    "lon": 24.813167
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Sammalkalliontie",
+    "address": "Sammalkalliontie 1",
+    "spaces": 9,
+    "lat": 60.177093,
+    "lon": 24.733764
+  },
+  {
+    "category": "carshare_parking",
+    "name": "Parking for car share vehicles Ruutikatu",
+    "address": "Ruutikatu 9",
+    "spaces": 1,
+    "lat": 60.223701,
+    "lon": 24.822087
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Ruskaniitty",
+    "address": "Ruskaniitty 2",
+    "spaces": 8,
+    "lat": 60.305545,
+    "lon": 24.740028
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Ruskaniitty",
+    "address": "Ruskaniitty 2",
+    "spaces": 2,
+    "lat": 60.305568,
+    "lon": 24.739676
+  },
+  {
+    "category": "carshare_parking",
+    "name": "Parking for car share vehicles Ruotutorppa",
+    "address": "Ruotutorppa 8",
+    "spaces": 6,
+    "lat": 60.21786,
+    "lon": 24.777286
+  },
+  {
+    "category": "carshare_parking",
+    "name": "Parking for car share vehicles Ruotutie",
+    "address": "Ruotutie 9",
+    "spaces": 5,
+    "lat": 60.217886,
+    "lon": 24.76728
+  },
+  {
+    "category": "carshare_parking",
+    "name": "Parking for car share vehicles Ruotutie",
+    "address": "Ruotutie 12c",
+    "spaces": 2,
+    "lat": 60.217595,
+    "lon": 24.769226
+  },
+  {
+    "category": "carshare_parking",
+    "name": "Parking for car share vehicles Ruotutie",
+    "address": "Ruotutie 12b",
+    "spaces": 2,
+    "lat": 60.217657,
+    "lon": 24.769512
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Rummunlyöjänkatu",
+    "address": "Rummunlyöjänkatu 3",
+    "spaces": 2,
+    "lat": 60.217926,
+    "lon": 24.805682
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Ristiaallokonkatu",
+    "address": "Ristiaallokonkatu 4",
+    "spaces": 1,
+    "lat": 60.154615,
+    "lon": 24.641643
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Rintamäentanhua",
+    "address": "Rintamäentanhua 2",
+    "spaces": 8,
+    "lat": 60.215054,
+    "lon": 24.626357
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Tammihaantie",
+    "address": "Tammihaantie 10",
+    "spaces": 10,
+    "lat": 60.231279,
+    "lon": 24.723624
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Suviniitynkuja",
+    "address": "Suviniitynkuja 3",
+    "spaces": 1,
+    "lat": 60.204601,
+    "lon": 24.664189
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Suviniitynkuja",
+    "address": "Suviniitynkuja 2",
+    "spaces": 1,
+    "lat": 60.204695,
+    "lon": 24.664465
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Patruunakatu",
+    "address": "Patruunakatu 8",
+    "spaces": 1,
+    "lat": 60.220999,
+    "lon": 24.828761
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Tuohistanhua",
+    "address": "Tuohistanhua 5",
+    "spaces": 8,
+    "lat": 60.232396,
+    "lon": 24.741639
+  },
+  {
+    "category": "carshare_parking",
+    "name": "Parking for car share vehicles Trillakatu",
+    "address": "Trillakatu 1",
+    "spaces": 10,
+    "lat": 60.217363,
+    "lon": 24.785942
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Hansavalkamanaukio",
+    "address": "Hansatie 1",
+    "spaces": 1,
+    "lat": 60.18789,
+    "lon": 24.586734
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Tornihaukantie",
+    "address": "Tornihaukantie 6",
+    "spaces": 26,
+    "lat": 60.227714,
+    "lon": 24.773806
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Toppelundinportti",
+    "address": "Toppelundinportti 3",
+    "spaces": 11,
+    "lat": 60.162301,
+    "lon": 24.78602
+  },
+  {
+    "category": "carshare_parking",
+    "name": "Parking for car share vehicles Tonttutytönpolku",
+    "address": "Tonttutytönpolku 5",
+    "spaces": 5,
+    "lat": 60.17358,
+    "lon": 24.773459
+  },
+  {
+    "category": "carshare_parking",
+    "name": "Parking for car share vehicles Tonttutytönpolku",
+    "address": "Tonttutytönpolku 1",
+    "spaces": 3,
+    "lat": 60.173371,
+    "lon": 24.774098
+  },
+  {
+    "category": "carshare_parking",
+    "name": "Parking for car share vehicles Tonttutytönpolku",
+    "address": "Hiippalakinkuja 5",
+    "spaces": 5,
+    "lat": 60.173776,
+    "lon": 24.772862
+  },
+  {
+    "category": "carshare_parking",
+    "name": "Parking for car share vehicles Tonttutytönkuja",
+    "address": "Tonttutytönkuja 2",
+    "spaces": 5,
+    "lat": 60.173045,
+    "lon": 24.775155
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Tikasmäentie",
+    "address": "Tikasmäentie 34",
+    "spaces": 1,
+    "lat": 60.184175,
+    "lon": 24.716386
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Tikasmäentie",
+    "address": "Tikasmäentie 34",
+    "spaces": 1,
+    "lat": 60.184218,
+    "lon": 24.716576
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Tikasmäentie",
+    "address": "Tikasmäentie 34",
+    "spaces": 8,
+    "lat": 60.18416,
+    "lon": 24.716519
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Tiistinniityntie",
+    "address": "Tiistinniityntie 8",
+    "spaces": 24,
+    "lat": 60.161364,
+    "lon": 24.729914
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Tiistilänkuja",
+    "address": "Tiistilänkuja 3",
+    "spaces": 2,
+    "lat": 60.154615,
+    "lon": 24.737662
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Tiistilänkuja",
+    "address": "Tiistilänkuja 3",
+    "spaces": 3,
+    "lat": 60.154486,
+    "lon": 24.737044
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Tiistilänkuja",
+    "address": "Tiistilänkuja 1",
+    "spaces": 9,
+    "lat": 60.154774,
+    "lon": 24.738417
+  },
+  {
+    "category": "carshare_parking",
+    "name": "Parking for car share vehicles Tietotie",
+    "address": "Tekniikantie 15",
+    "spaces": 4,
+    "lat": 60.184293,
+    "lon": 24.816381
+  },
+  {
+    "category": "carshare_parking",
+    "name": "Parking for car share vehicles Tietotie",
+    "address": "Tietotie 3",
+    "spaces": 5,
+    "lat": 60.184664,
+    "lon": 24.819134
+  },
+  {
+    "category": "carshare_parking",
+    "name": "Parking for car share vehicles Tietotie",
+    "address": "Tietotie 6",
+    "spaces": 5,
+    "lat": 60.184381,
+    "lon": 24.818193
+  },
+  {
+    "category": "carshare_parking",
+    "name": "Parking for car share vehicles Tietotie",
+    "address": "Tietotie 3",
+    "spaces": 17,
+    "lat": 60.184421,
+    "lon": 24.8178
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Tervamäki",
+    "address": "Tervamäki 1a",
+    "spaces": 6,
+    "lat": 60.223884,
+    "lon": 24.64049
+  },
+  {
+    "category": "carshare_parking",
+    "name": "Parking for car share vehicles Tapionaukio",
+    "address": "Tapionaukio 4",
+    "spaces": 4,
+    "lat": 60.176461,
+    "lon": 24.807973
+  },
+  {
+    "category": "carshare_parking",
+    "name": "Parking for car share vehicles Tapionaukio",
+    "address": "Tapionaukio 4",
+    "spaces": 8,
+    "lat": 60.17635,
+    "lon": 24.807187
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Soukansyrjä",
+    "address": "Soukansyrjä 12",
+    "spaces": 5,
+    "lat": 60.132258,
+    "lon": 24.67873
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Soukankuja",
+    "address": "Soukankuja 6",
+    "spaces": 5,
+    "lat": 60.138424,
+    "lon": 24.672611
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Soukankuja",
+    "address": "Soukankuja 6",
+    "spaces": 5,
+    "lat": 60.138528,
+    "lon": 24.67256
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Soukankuja",
+    "address": "Soukankuja 6",
+    "spaces": 7,
+    "lat": 60.138395,
+    "lon": 24.672314
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Soukan rantatie",
+    "address": "Soukan rantatie 18",
+    "spaces": 8,
+    "lat": 60.135698,
+    "lon": 24.662681
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Sotatuomarintie",
+    "address": "Sotatuomarintie 6a",
+    "spaces": 2,
+    "lat": 60.226737,
+    "lon": 24.836413
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Sotarovastintie",
+    "address": "Sotarovastintie 14",
+    "spaces": 2,
+    "lat": 60.225204,
+    "lon": 24.840195
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Solisevantie",
+    "address": "Solisevantie 2a",
+    "spaces": 20,
+    "lat": 60.19542,
+    "lon": 24.681717
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Sinikalliontie",
+    "address": "Sinikalliontie 12",
+    "spaces": 6,
+    "lat": 60.204466,
+    "lon": 24.762867
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Siltakatu",
+    "address": "Siltakatu 5",
+    "spaces": 2,
+    "lat": 60.203368,
+    "lon": 24.6558
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Seilimäki",
+    "address": "Seilimäki 20",
+    "spaces": 8,
+    "lat": 60.187626,
+    "lon": 24.767826
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Seilikaari",
+    "address": "Seilikaari 8",
+    "spaces": 8,
+    "lat": 60.190648,
+    "lon": 24.770718
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Puistopiha",
+    "address": "Puistopiha 6",
+    "spaces": 4,
+    "lat": 60.21539,
+    "lon": 24.788785
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Planeetankatu",
+    "address": "Planeetankatu 3",
+    "spaces": 8,
+    "lat": 60.170049,
+    "lon": 24.730593
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Pitkänkalliontanhua",
+    "address": "Pitkänkalliontanhua 1",
+    "spaces": 19,
+    "lat": 60.156074,
+    "lon": 24.777874
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Piispantilankuja",
+    "address": "Kalastajantie 2",
+    "spaces": 9,
+    "lat": 60.16275,
+    "lon": 24.722683
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Piispansilta",
+    "address": "Piispansilta 17",
+    "spaces": 2,
+    "lat": 60.161334,
+    "lon": 24.739831
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Piispanmäenkuja",
+    "address": "Piispanmäenkuja 3",
+    "spaces": 12,
+    "lat": 60.163001,
+    "lon": 24.72837
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Piilopolku",
+    "address": "Piilopolku 1b",
+    "spaces": 3,
+    "lat": 60.18818,
+    "lon": 24.793373
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Perusmäentie",
+    "address": "Perusmäentie 4",
+    "spaces": 5,
+    "lat": 60.287512,
+    "lon": 24.726907
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Perkkaantie",
+    "address": "Perkkaantie 20",
+    "spaces": 20,
+    "lat": 60.220325,
+    "lon": 24.839701
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Parrukuja",
+    "address": "Parrukuja 8",
+    "spaces": 5,
+    "lat": 60.232964,
+    "lon": 24.756625
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Pajuviita",
+    "address": "Pajuviita 4",
+    "spaces": 8,
+    "lat": 60.234175,
+    "lon": 24.698508
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Paimenenportti",
+    "address": "Paimenenportti 19",
+    "spaces": 5,
+    "lat": 60.164531,
+    "lon": 24.660625
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Otakaari",
+    "address": "Otakaari 9a",
+    "spaces": 1,
+    "lat": 60.188634,
+    "lon": 24.834457
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Orionintie",
+    "address": "Orionintie 16",
+    "spaces": 7,
+    "lat": 60.18012,
+    "lon": 24.771402
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Rauhalanpuisto",
+    "address": "Rauhalanpuisto 2b",
+    "spaces": 1,
+    "lat": 60.164552,
+    "lon": 24.745002
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Ratamotie",
+    "address": "Ratamotie 3",
+    "spaces": 8,
+    "lat": 60.231763,
+    "lon": 24.776315
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Rastaspuistontie",
+    "address": "Rastaspuistontie 6",
+    "spaces": 11,
+    "lat": 60.231642,
+    "lon": 24.78006
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Rantatie",
+    "address": "Rantatie 15",
+    "spaces": 2,
+    "lat": 60.256748,
+    "lon": 24.761109
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Raanukuja",
+    "address": "Raanukuja 1",
+    "spaces": 8,
+    "lat": 60.196309,
+    "lon": 24.750031
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Pääskyskuja",
+    "address": "Pääskyskuja 8",
+    "spaces": 4,
+    "lat": 60.22735,
+    "lon": 24.782969
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Pääskyskuja",
+    "address": "Pääskyskuja 8",
+    "spaces": 3,
+    "lat": 60.227155,
+    "lon": 24.78259
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Päiväperhontie",
+    "address": "Päiväperhontie 3",
+    "spaces": 16,
+    "lat": 60.173875,
+    "lon": 24.740981
+  },
+  {
+    "category": "carshare_parking",
+    "name": "Parking for car share vehicles Päivänkaari",
+    "address": "Päivänkaari 9",
+    "spaces": 4,
+    "lat": 60.174205,
+    "lon": 24.734662
+  },
+  {
+    "category": "carshare_parking",
+    "name": "Parking for car share vehicles Päiväkummuntie",
+    "address": "Päiväkummuntie 7",
+    "spaces": 4,
+    "lat": 60.173457,
+    "lon": 24.734534
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Oravannahkatori",
+    "address": "Oravannahkatori 3",
+    "spaces": 7,
+    "lat": 60.175951,
+    "lon": 24.793218
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Olkiportti",
+    "address": "Leppävaarankatu 17",
+    "spaces": 2,
+    "lat": 60.217385,
+    "lon": 24.804288
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Olarinluoma",
+    "address": "Olarinluoma 9",
+    "spaces": 8,
+    "lat": 60.176759,
+    "lon": 24.758447
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Olarinkatu",
+    "address": "Ylismäentie 1",
+    "spaces": 16,
+    "lat": 60.177033,
+    "lon": 24.729584
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Oittaantie",
+    "address": "Oittaantie 2",
+    "spaces": 3,
+    "lat": 60.239837,
+    "lon": 24.659039
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Oittaantie",
+    "address": "Oittaantie 2",
+    "spaces": 24,
+    "lat": 60.239954,
+    "lon": 24.6609
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Oittaantie",
+    "address": "Oittaantie 2",
+    "spaces": 17,
+    "lat": 60.239874,
+    "lon": 24.659598
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Nyyrikintie",
+    "address": "Nyyrikintie 2",
+    "spaces": 3,
+    "lat": 60.18309,
+    "lon": 24.804541
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Nuuniitynkuja",
+    "address": "Nuuniitynkuja 5",
+    "spaces": 4,
+    "lat": 60.236017,
+    "lon": 24.742224
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Nuumäentie",
+    "address": "Nuumäentie 7",
+    "spaces": 9,
+    "lat": 60.2346,
+    "lon": 24.741801
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Nuottaniementie",
+    "address": "Nuottaniementie 19",
+    "spaces": 7,
+    "lat": 60.148391,
+    "lon": 24.738754
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Lukupurontie",
+    "address": "Parolantie 2",
+    "spaces": 11,
+    "lat": 60.181427,
+    "lon": 24.759625
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Lukiotie",
+    "address": "Lukiotie 3",
+    "spaces": 10,
+    "lat": 60.229094,
+    "lon": 24.737786
+  },
+  {
+    "category": "carshare_parking",
+    "name": "Parking for car share vehicles Louhenkuja",
+    "address": "Louhenkuja 1",
+    "spaces": 7,
+    "lat": 60.18479,
+    "lon": 24.797292
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Lippajärventie",
+    "address": "Lippajärventie 44",
+    "spaces": 1,
+    "lat": 60.231417,
+    "lon": 24.715957
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Lintukulma",
+    "address": "Lintukulma 8",
+    "spaces": 5,
+    "lat": 60.234761,
+    "lon": 24.811357
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Lintukorvenkuja",
+    "address": "Lintukorvenkuja 1",
+    "spaces": 14,
+    "lat": 60.23122,
+    "lon": 24.804203
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Lintukorpi",
+    "address": "Lintukorpi 17",
+    "spaces": 1,
+    "lat": 60.230498,
+    "lon": 24.800822
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Lintukorpi",
+    "address": "Lintukorpi 32",
+    "spaces": 15,
+    "lat": 60.230496,
+    "lon": 24.800414
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park LP Kirjurinkuja",
+    "address": "Kirjurinkuja 1",
+    "spaces": 1,
+    "lat": 60.215504,
+    "lon": 24.82603
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Leppäviita",
+    "address": "Leppäviita 2",
+    "spaces": 2,
+    "lat": 60.218736,
+    "lon": 24.801919
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Leppävaaranaukio",
+    "address": "Hevosenkenkä 4",
+    "spaces": 1,
+    "lat": 60.218864,
+    "lon": 24.815005
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Leppälinnunrinne",
+    "address": "Leppälinnunkuja 2",
+    "spaces": 20,
+    "lat": 60.229559,
+    "lon": 24.784962
+  },
+  {
+    "category": "carshare_parking",
+    "name": "Parking for car share vehicles Myllytontuntie",
+    "address": "Myllytontuntie 11",
+    "spaces": 6,
+    "lat": 60.174153,
+    "lon": 24.770071
+  },
+  {
+    "category": "carshare_parking",
+    "name": "Parking for car share vehicles Myllytontuntie",
+    "address": "Myllytontuntie 17",
+    "spaces": 14,
+    "lat": 60.174491,
+    "lon": 24.769034
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Mikkeläntie",
+    "address": "Mikkeläntie 11",
+    "spaces": 12,
+    "lat": 60.205439,
+    "lon": 24.636922
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Metsälammentie",
+    "address": "Metsälammentie 3",
+    "spaces": 7,
+    "lat": 60.222203,
+    "lon": 24.647165
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Merivirta",
+    "address": "Merivirta 3b",
+    "spaces": 1,
+    "lat": 60.153769,
+    "lon": 24.636817
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Meriviitantie",
+    "address": "Meriviitantie 14",
+    "spaces": 5,
+    "lat": 60.165617,
+    "lon": 24.610589
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Merivalkama",
+    "address": "Merivalkama 3",
+    "spaces": 1,
+    "lat": 60.153622,
+    "lon": 24.632555
+  },
+  {
+    "category": "carshare_parking",
+    "name": "Parking for car share vehicles Merivalkama",
+    "address": "Merivalkama 16",
+    "spaces": 15,
+    "lat": 60.152756,
+    "lon": 24.630924
+  },
+  {
+    "category": "carshare_parking",
+    "name": "Parking for car share vehicles Merivalkama",
+    "address": "Merivalkama 3",
+    "spaces": 8,
+    "lat": 60.15336,
+    "lon": 24.632243
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Merituulentie",
+    "address": "Merituulentie 38",
+    "spaces": 1,
+    "lat": 60.170739,
+    "lon": 24.762317
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Merenkulkijanpolku",
+    "address": "Merenkulkijankatu 5",
+    "spaces": 1,
+    "lat": 60.147889,
+    "lon": 24.654671
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Menninkäisentie",
+    "address": "Menninkäisentie 7",
+    "spaces": 1,
+    "lat": 60.182049,
+    "lon": 24.811283
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Nuijavuori",
+    "address": "Nuijavuori 2",
+    "spaces": 7,
+    "lat": 60.21089,
+    "lon": 24.768457
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Nuijamäki",
+    "address": "Nuijamäki 7",
+    "spaces": 27,
+    "lat": 60.210235,
+    "lon": 24.765586
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Norppatie",
+    "address": "Norppatie 5",
+    "spaces": 9,
+    "lat": 60.14827,
+    "lon": 24.700804
+  },
+  {
+    "category": "carshare_parking",
+    "name": "Parking for car share vehicles Nokitontunkuja",
+    "address": "Nokitontunkuja 1",
+    "spaces": 10,
+    "lat": 60.175307,
+    "lon": 24.776828
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Nissintie",
+    "address": "Nissintie 12",
+    "spaces": 8,
+    "lat": 60.182891,
+    "lon": 24.618767
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Niittyrinne",
+    "address": "Niittyrinne 8",
+    "spaces": 9,
+    "lat": 60.166386,
+    "lon": 24.704824
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Niittylaakso",
+    "address": "Niittylaakso 2",
+    "spaces": 1,
+    "lat": 60.19696,
+    "lon": 24.675487
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Niittykallio",
+    "address": "Niittykallio 2",
+    "spaces": 1,
+    "lat": 60.167994,
+    "lon": 24.757409
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Nelikkotie",
+    "address": "Nelikkotie 16",
+    "spaces": 1,
+    "lat": 60.161782,
+    "lon": 24.747113
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Mäntyviita",
+    "address": "Neulaspolku 1",
+    "spaces": 8,
+    "lat": 60.179045,
+    "lon": 24.81286
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Matinpuronranta",
+    "address": "Gräsanlaaksonkuja 4",
+    "spaces": 2,
+    "lat": 60.163207,
+    "lon": 24.753549
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Matinpuronranta",
+    "address": "Gräsanlaaksonkuja 4",
+    "spaces": 2,
+    "lat": 60.163182,
+    "lon": 24.753758
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Malminhaankuja",
+    "address": "Malminhaankuja 7",
+    "spaces": 2,
+    "lat": 60.176712,
+    "lon": 24.688796
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Malminhaankuja",
+    "address": "Malminhaankuja 5",
+    "spaces": 2,
+    "lat": 60.176891,
+    "lon": 24.688455
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Majurinpolku",
+    "address": "Majurinpolku 3",
+    "spaces": 2,
+    "lat": 60.214127,
+    "lon": 24.821906
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Majurinpolku",
+    "address": "Majurinpolku 3",
+    "spaces": 1,
+    "lat": 60.214104,
+    "lon": 24.823496
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Maininkitie",
+    "address": "Maininkitie 22",
+    "spaces": 24,
+    "lat": 60.152667,
+    "lon": 24.644293
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Maapallonkuja",
+    "address": "Maapallonkuja 4",
+    "spaces": 1,
+    "lat": 60.171822,
+    "lon": 24.725852
+  },
+  {
+    "category": "carshare_parking",
+    "name": "Parking for car share vehicles Maapallonkuja",
+    "address": "Maapallonkuja 4",
+    "spaces": 6,
+    "lat": 60.171993,
+    "lon": 24.725673
+  },
+  {
+    "category": "carshare_parking",
+    "name": "Parking for car share vehicles Maapallonkuja",
+    "address": "Maapallonkuja 2",
+    "spaces": 9,
+    "lat": 60.172364,
+    "lon": 24.725555
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Läkkisepänkuja",
+    "address": "Läkkisepänkuja 3",
+    "spaces": 2,
+    "lat": 60.220618,
+    "lon": 24.812196
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Lähdeaukio",
+    "address": "Lähdeaukio 1",
+    "spaces": 1,
+    "lat": 60.241247,
+    "lon": 24.739286
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Lähdeaukio",
+    "address": "Lähdeaukio 1",
+    "spaces": 1,
+    "lat": 60.241325,
+    "lon": 24.739245
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Luuvanmäki",
+    "address": "Luuvanmäki 6",
+    "spaces": 8,
+    "lat": 60.240651,
+    "lon": 24.778648
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Kurjenkellontie",
+    "address": "Kurjenkellontie 6",
+    "spaces": 9,
+    "lat": 60.158434,
+    "lon": 24.703548
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Kulttuuriaukio",
+    "address": "Kulttuuriaukio 2",
+    "spaces": 1,
+    "lat": 60.177742,
+    "lon": 24.803512
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Kulttuuriaukio",
+    "address": "Kulttuuriaukio 2",
+    "spaces": 1,
+    "lat": 60.177696,
+    "lon": 24.803556
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Kulovalkeantie",
+    "address": "Kulovalkeantie 12",
+    "spaces": 1,
+    "lat": 60.206582,
+    "lon": 24.681946
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Kukkumäenportti",
+    "address": "Kukkumäenportti 6",
+    "spaces": 7,
+    "lat": 60.176867,
+    "lon": 24.673156
+  },
+  {
+    "category": "carshare_parking",
+    "name": "Parking for car share vehicles Kotikyläntie",
+    "address": "Kotikyläntie 1a",
+    "spaces": 2,
+    "lat": 60.207898,
+    "lon": 24.666453
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Kotikyläntie",
+    "address": "Kotikyläntie 1a",
+    "spaces": 22,
+    "lat": 60.207992,
+    "lon": 24.666613
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Koronakatu",
+    "address": "Koronakatu 3",
+    "spaces": 4,
+    "lat": 60.166395,
+    "lon": 24.729248
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Kontiontie",
+    "address": "Kontiontie 3",
+    "spaces": 44,
+    "lat": 60.178014,
+    "lon": 24.813619
+  },
+  {
+    "category": "carshare_parking",
+    "name": "Parking for car share vehicles Komentajankatu",
+    "address": "Komentajankatu 6",
+    "spaces": 1,
+    "lat": 60.215981,
+    "lon": 24.821942
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Komentajankatu",
+    "address": "Komentajankatu 6",
+    "spaces": 1,
+    "lat": 60.216005,
+    "lon": 24.821944
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Komentajankatu",
+    "address": "Komentajankatu 3",
+    "spaces": 7,
+    "lat": 60.215889,
+    "lon": 24.821937
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Kirstinsyrjä",
+    "address": "Kirstinsyrjä 4",
+    "spaces": 8,
+    "lat": 60.204951,
+    "lon": 24.671475
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Kirstinmäki",
+    "address": "Kirstinmäki 6",
+    "spaces": 1,
+    "lat": 60.202341,
+    "lon": 24.665054
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Kirkkopolku",
+    "address": "Kirkkopolku 3a",
+    "spaces": 2,
+    "lat": 60.178181,
+    "lon": 24.808013
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Kirkkojärventie",
+    "address": "Kirkkojärventie 1",
+    "spaces": 1,
+    "lat": 60.205151,
+    "lon": 24.655327
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Kirkkalanportti",
+    "address": "Kirkkalanportti 1",
+    "spaces": 10,
+    "lat": 60.234668,
+    "lon": 24.821297
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Kimmeltie",
+    "address": "Kimmeltie 5",
+    "spaces": 13,
+    "lat": 60.179965,
+    "lon": 24.819737
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Leenankuja",
+    "address": "Leenankuja 4",
+    "spaces": 5,
+    "lat": 60.153769,
+    "lon": 24.742054
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Lanttikatu",
+    "address": "Lanttikatu 12",
+    "spaces": 11,
+    "lat": 60.205877,
+    "lon": 24.632189
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Kuuterseläntie",
+    "address": "Kuuterseläntie 2",
+    "spaces": 6,
+    "lat": 60.195143,
+    "lon": 24.792483
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Kuutamokatu",
+    "address": "Kuutamokatu 6",
+    "spaces": 8,
+    "lat": 60.175775,
+    "lon": 24.726099
+  },
+  {
+    "category": "carshare_parking",
+    "name": "Parking for car share vehicles Kilonpuistonkatu",
+    "address": "Kilonpuistonkatu 12",
+    "spaces": 8,
+    "lat": 60.21688,
+    "lon": 24.782908
+  },
+  {
+    "category": "carshare_parking",
+    "name": "Parking for car share vehicles Kilonpuistonkatu",
+    "address": "Kilonpuistonkatu 12",
+    "spaces": 10,
+    "lat": 60.216833,
+    "lon": 24.782726
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Keskijuoksu",
+    "address": "Keskijuoksu 20",
+    "spaces": 18,
+    "lat": 60.283566,
+    "lon": 24.754288
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Kellonummentie",
+    "address": "Kellonummentie 5",
+    "spaces": 20,
+    "lat": 60.243239,
+    "lon": 24.647753
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Holmanniitynkuja",
+    "address": "Holmanniitynkuja 23",
+    "spaces": 5,
+    "lat": 60.172662,
+    "lon": 24.705211
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Hirvimiestentie",
+    "address": "Hirvimiestentie 1",
+    "spaces": 10,
+    "lat": 60.218196,
+    "lon": 24.627357
+  },
+  {
+    "category": "carshare_parking",
+    "name": "Parking for car share vehicles Hevosenkenkä",
+    "address": "Hevosenkenkä 4",
+    "spaces": 4,
+    "lat": 60.218156,
+    "lon": 24.815011
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Heinäportti",
+    "address": "Leppävaarankatu 19",
+    "spaces": 2,
+    "lat": 60.21749,
+    "lon": 24.802184
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Hauenkallio",
+    "address": "Hauenkallio 1",
+    "spaces": 20,
+    "lat": 60.161537,
+    "lon": 24.766572
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Harppuunakuja",
+    "address": "Harppuunakuja 6",
+    "spaces": 4,
+    "lat": 60.148661,
+    "lon": 24.709697
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Harmaaniityntie",
+    "address": "Harmaaniityntie 10",
+    "spaces": 5,
+    "lat": 60.174423,
+    "lon": 24.619448
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Harjuviita",
+    "address": "Harjuviita 16",
+    "spaces": 24,
+    "lat": 60.176481,
+    "lon": 24.825749
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Kalasääksentie",
+    "address": "Kalasääksentie 2",
+    "spaces": 23,
+    "lat": 60.229636,
+    "lon": 24.775607
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Kaivosmäki",
+    "address": "Kaivosmäki 5",
+    "spaces": 2,
+    "lat": 60.255598,
+    "lon": 24.771168
+  },
+  {
+    "category": "carshare_parking",
+    "name": "Parking for car share vehicles Jämeräntaival",
+    "address": "Jämeräntaival 2",
+    "spaces": 5,
+    "lat": 60.187686,
+    "lon": 24.835536
+  },
+  {
+    "category": "carshare_parking",
+    "name": "Parking for car share vehicles Jämeräntaival",
+    "address": "Jämeräntaival 11",
+    "spaces": 9,
+    "lat": 60.190233,
+    "lon": 24.839524
+  },
+  {
+    "category": "carshare_parking",
+    "name": "Parking for car share vehicles Jämeräntaival",
+    "address": "Jämeräntaival 10",
+    "spaces": 19,
+    "lat": 60.189399,
+    "lon": 24.838545
+  },
+  {
+    "category": "carshare_parking",
+    "name": "Parking for car share vehicles Jämeräntaival",
+    "address": "Jämeräntaival 4",
+    "spaces": 28,
+    "lat": 60.187822,
+    "lon": 24.837024
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Jupperinaukio",
+    "address": "Peltotie 2",
+    "spaces": 7,
+    "lat": 60.258469,
+    "lon": 24.764787
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Jukolanahde",
+    "address": "Jukolanahde 2",
+    "spaces": 15,
+    "lat": 60.191771,
+    "lon": 24.75639
+  },
+  {
+    "category": "carshare_parking",
+    "name": "Parking for car share vehicles Keilaniementie",
+    "address": "Keilaniementie 6",
+    "spaces": 7,
+    "lat": 60.175723,
+    "lon": 24.829538
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Keilalahdentie",
+    "address": "Keilalahdentie 7",
+    "spaces": 18,
+    "lat": 60.170198,
+    "lon": 24.825633
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Keilalahdentie",
+    "address": "Keilalahdentie 8",
+    "spaces": 74,
+    "lat": 60.168608,
+    "lon": 24.83294
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Keijuniityntie",
+    "address": "Keijuniityntie 3",
+    "spaces": 16,
+    "lat": 60.186574,
+    "lon": 24.801611
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Niipperinpelto",
+    "address": "Niipperinpelto 27",
+    "spaces": 35,
+    "lat": 60.280091,
+    "lon": 24.738098
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Kaskenpää",
+    "address": "Kaskenpää 2",
+    "spaces": 7,
+    "lat": 60.175502,
+    "lon": 24.652314
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Karapellontie",
+    "address": "Karapellontie 13",
+    "spaces": 0,
+    "lat": 60.216599,
+    "lon": 24.752199
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Karakalliontie",
+    "address": "Karakalliontie 12",
+    "spaces": 30,
+    "lat": 60.229282,
+    "lon": 24.765625
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Karakalliontie",
+    "address": "Karakalliontie 12",
+    "spaces": 2,
+    "lat": 60.2291,
+    "lon": 24.764969
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Karakallionkuja",
+    "address": "Karakallionkuja 1",
+    "spaces": 20,
+    "lat": 60.23016,
+    "lon": 24.768739
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Kappalaisentie",
+    "address": "Kappalaisentie 13",
+    "spaces": 5,
+    "lat": 60.224577,
+    "lon": 24.698921
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Kappalaisenkuja",
+    "address": "Kappalaisenkuja 1",
+    "spaces": 7,
+    "lat": 60.225055,
+    "lon": 24.697913
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Jalavakuja",
+    "address": "Jalavakuja 4",
+    "spaces": 12,
+    "lat": 60.196337,
+    "lon": 24.664868
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Itäranta",
+    "address": "Itäranta 2",
+    "spaces": 7,
+    "lat": 60.17188,
+    "lon": 24.823302
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Itäranta",
+    "address": "Itäranta 13",
+    "spaces": 20,
+    "lat": 60.177583,
+    "lon": 24.824655
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Itäinen rantatie",
+    "address": "Itäinen rantatie 9",
+    "spaces": 9,
+    "lat": 60.145724,
+    "lon": 24.748366
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Itsehallintotie",
+    "address": "Itsehallintotie 7",
+    "spaces": 12,
+    "lat": 60.210782,
+    "lon": 24.823788
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Isoistentie",
+    "address": "Isoistentie 13",
+    "spaces": 9,
+    "lat": 60.177043,
+    "lon": 24.750693
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Isoistenkuja",
+    "address": "Isoistenkuja 9",
+    "spaces": 9,
+    "lat": 60.179718,
+    "lon": 24.750131
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Iltapäiväntie",
+    "address": "Iltapäiväntie 10",
+    "spaces": 10,
+    "lat": 60.169219,
+    "lon": 24.737466
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Hösmärintie",
+    "address": "Sokinvuorenkuja 2",
+    "spaces": 10,
+    "lat": 60.197965,
+    "lon": 24.672209
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Hämäläistentie",
+    "address": "Hämäläistentie 34",
+    "spaces": 3,
+    "lat": 60.202718,
+    "lon": 24.606452
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Huvilinnanmäki",
+    "address": "Huvilinnanmäki 6a",
+    "spaces": 1,
+    "lat": 60.216532,
+    "lon": 24.806268
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Huvilinnanmäki",
+    "address": "Huvilinnanmäki 8",
+    "spaces": 1,
+    "lat": 60.21616,
+    "lon": 24.807074
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Huvilinnanmäki",
+    "address": "Huvilinnanmäki 10",
+    "spaces": 1,
+    "lat": 60.215962,
+    "lon": 24.807504
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Alberganesplanadi",
+    "address": "Alberganesplanadi 9",
+    "spaces": 1,
+    "lat": 60.215243,
+    "lon": 24.81097
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Alajuoksu",
+    "address": "Alajuoksu 11",
+    "spaces": 12,
+    "lat": 60.280506,
+    "lon": 24.753748
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Aitovieri",
+    "address": "Aitovieri 3",
+    "spaces": 6,
+    "lat": 60.248867,
+    "lon": 24.725307
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Ahvenkuja",
+    "address": "Ahvenkuja 5",
+    "spaces": 9,
+    "lat": 60.167115,
+    "lon": 24.775889
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Ahertajankuja",
+    "address": "Ahertajankuja 1",
+    "spaces": 4,
+    "lat": 60.179048,
+    "lon": 24.797263
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Aapelinkatu",
+    "address": "Matinlahdenkuja 1",
+    "spaces": 4,
+    "lat": 60.154968,
+    "lon": 24.748143
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Aalto",
+    "address": "Aalto 3",
+    "spaces": 10,
+    "lat": 60.150056,
+    "lon": 24.639071
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Aallonhuippu",
+    "address": "Aallonhuippu 12",
+    "spaces": 1,
+    "lat": 60.152297,
+    "lon": 24.639657
+  },
+  {
+    "category": "carshare_parking",
+    "name": "Parking for car share vehicles Aallonhuippu",
+    "address": "Aallonhuippu 10",
+    "spaces": 6,
+    "lat": 60.152056,
+    "lon": 24.63919
+  },
+  {
+    "category": "carshare_parking",
+    "name": "Parking for car share vehicles Aallonhuippu",
+    "address": "Aallonhuippu 8",
+    "spaces": 7,
+    "lat": 60.151772,
+    "lon": 24.638577
+  },
+  {
+    "category": "carshare_parking",
+    "name": "Parking for car share vehicles Aallonhuippu",
+    "address": "Aallonhuippu 6",
+    "spaces": 3,
+    "lat": 60.151548,
+    "lon": 24.638088
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Eestinahde",
+    "address": "Eestinahde 4",
+    "spaces": 6,
+    "lat": 60.16882,
+    "lon": 24.676328
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Hannuksenpuisto",
+    "address": "Hannuksenpuisto 3",
+    "spaces": 1,
+    "lat": 60.154787,
+    "lon": 24.702236
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Hanikka",
+    "address": "Hanikka 7",
+    "spaces": 12,
+    "lat": 60.131609,
+    "lon": 24.682319
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Haltilantie",
+    "address": "Haltilantie 12",
+    "spaces": 15,
+    "lat": 60.173413,
+    "lon": 24.753876
+  },
+  {
+    "category": "carshare_parking",
+    "name": "Parking for car share vehicles Haltijatontuntie",
+    "address": "Haltijatontuntie 35",
+    "spaces": 2,
+    "lat": 60.173945,
+    "lon": 24.774823
+  },
+  {
+    "category": "carshare_parking",
+    "name": "Parking for car share vehicles Haltijatontuntie",
+    "address": "Haltijatontuntie 33",
+    "spaces": 5,
+    "lat": 60.173653,
+    "lon": 24.774748
+  },
+  {
+    "category": "carshare_parking",
+    "name": "Parking for car share vehicles Haltijatontuntie",
+    "address": "Haltijatontuntie 12",
+    "spaces": 5,
+    "lat": 60.173119,
+    "lon": 24.77008
+  },
+  {
+    "category": "carshare_parking",
+    "name": "Parking for car share vehicles Haltijatontuntie",
+    "address": "Haltijatontuntie 8",
+    "spaces": 7,
+    "lat": 60.173326,
+    "lon": 24.769408
+  },
+  {
+    "category": "carshare_parking",
+    "name": "Parking for car share vehicles Haltijatontuntie",
+    "address": "Haltijatontuntie 26",
+    "spaces": 3,
+    "lat": 60.173006,
+    "lon": 24.774289
+  },
+  {
+    "category": "carshare_parking",
+    "name": "Parking for car share vehicles Haltijatontuntie",
+    "address": "Haltijatontuntie 37",
+    "spaces": 5,
+    "lat": 60.174245,
+    "lon": 24.774901
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Hakarinne",
+    "address": "Hakarinne 6",
+    "spaces": 5,
+    "lat": 60.173163,
+    "lon": 24.795991
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Hakamäki",
+    "address": "Hakamäki 4",
+    "spaces": 18,
+    "lat": 60.171176,
+    "lon": 24.794455
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Haapaniementie",
+    "address": "Haapaniementie 4",
+    "spaces": 3,
+    "lat": 60.250912,
+    "lon": 24.724637
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Gräsantörmä",
+    "address": "Gräsantörmä 13",
+    "spaces": 4,
+    "lat": 60.166385,
+    "lon": 24.746237
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Glimsintie",
+    "address": "Glimsintie 1",
+    "spaces": 2,
+    "lat": 60.221273,
+    "lon": 24.681314
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park LP Ylämaansola",
+    "address": "Hämäläistentie 13",
+    "spaces": 8,
+    "lat": 60.199949,
+    "lon": 24.605863
+  },
+  {
+    "category": "public_parking_area",
+    "name": "Car park Fallåker",
+    "address": "Fallåker 20",
+    "spaces": 8,
+    "lat": 60.219209,
+    "lon": 24.668796
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Espoonkatu",
+    "address": "Espoonkatu 9b",
+    "spaces": 2,
+    "lat": 60.207362,
+    "lon": 24.654921
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Espoon asematori",
+    "address": "Espoonportti 9",
+    "spaces": 1,
+    "lat": 60.205344,
+    "lon": 24.660214
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Espoon asematori",
+    "address": "Asemakuja 6",
+    "spaces": 1,
+    "lat": 60.204901,
+    "lon": 24.657777
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Espoon asematori",
+    "address": "Asemakuja 6",
+    "spaces": 1,
+    "lat": 60.204996,
+    "lon": 24.657694
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Espoon asematori",
+    "address": "Asemakuja 3",
+    "spaces": 1,
+    "lat": 60.205251,
+    "lon": 24.65988
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Espoon asematori",
+    "address": "Asemakuja 6",
+    "spaces": 2,
+    "lat": 60.205092,
+    "lon": 24.659071
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Bertel Jungin aukio",
+    "address": "Bertel Jungin aukio 4",
+    "spaces": 1,
+    "lat": 60.216817,
+    "lon": 24.814274
+  },
+  {
+    "category": "disability_parking",
+    "name": "Accessible car park Bertel Jungin aukio",
+    "address": "Sokerilinnantie 6",
+    "spaces": 1,
+    "lat": 60.216886,
+    "lon": 24.814066
+  }
+]
